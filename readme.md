@@ -1,6 +1,6 @@
 ## CIFAR-10 Image Classification (TensorFlow/Keras)
 
-[![Open In Colab](https://colab.research.google.com/drive/16BAOqvMc0c96hNDAemwPdL4IWyxbsuZ6?usp=sharing)
+[![Open In Colab]( https://colab.research.google.com/drive/16BAOqvMc0c96hNDAemwPdL4IWyxbsuZ6?usp=sharing )
 
 A simple convolutional neural network (CNN) built with TensorFlow/Keras to classify images from the CIFAR-10 dataset. After training, the script also runs predictions on example images in this folder.
 
